@@ -1,0 +1,8 @@
+Hej DANISH
+Hello ENGLISH
+Merhaba TURKISH
+Hallo GERMAN
+Salaam PERSIAN
+Shalom HEBREW
+Ahoj CZECH
+Hola SPANISH
